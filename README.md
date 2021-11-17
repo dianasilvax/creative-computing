@@ -1,12 +1,18 @@
-# The coding agency we need ❀
+# The c0mmunity we need ❀
 #### like seriously..
 
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+There's really only one way to tell you this..
+-
+91% of coders are male
 
-In this male dominated industry i think its about time
-for women
+and yes thats a worldwide statistic. 
 
-- First item
-- Second item
-- Third item
-- Fourth item
+Because 'boys are smarter'
+
+
+
+
+
+
+Woudlnt you want a community like this ? 
+
