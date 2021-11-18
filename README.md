@@ -2,21 +2,15 @@
 #### Like seriously..
 
 
-
-https://user-images.githubusercontent.com/94196366/142464612-450b0dc4-2958-4583-b96c-f92563503611.mp4
-
-
-
-
 ## There's really only one way to tell you this..
 
 -81% of the people working in the tech industry are ***male.***
 
 
-And yes thats a worldwide statistic. So why is that percentage is so high?
+And yes that's a worldwide statistic. So why is that percentage is so high?
 
 
-Women not only arent represented in the tech industry but the work culture and 
+Women not only aren't represented in the tech industry but the work culture and 
 gender discrimination are the leading reasons for the lack of 
 gender equality in the tech industry, and not to mention the gender pay gap
 affects the careers of women in tech.
@@ -26,9 +20,16 @@ Isn't that ironic considering ***Ada Lovelace*** was the world's first programme
 
 ## So what's my proposal?
 
-It's fair to say women deserve a community where they learn, share, teach and help eachother with creative coding.
-i've chosen creative coding as the main theme as i this would not only support and empower future idols for other women 
-but also create a platform for minorities in the tech industry to learn from eachother.
+### ╰┈➤ A community.
+
+My idea includes an open-source community, i decided to focus on this because i just started learning how to code
+it's crazy to see that all the courses to learn about code are run by men, all the youtube tutorials are made by men,
+all the big tech 'geniuses' are men, women seem to be excluded from this career or anything to do with tech in general,
+with not much exposure to other parts of creative computing either...
+
+It's fair to say women deserve a community where they can learn, share, teach and help eachother with creative coding.
+I've chosen creative coding as the main theme as i think this would not only support and empower women, but also giving other girls
+who don't know where to start, someone to look up to. This would help minorities in the tech industry learn from eachother.
 
 ## ✿ Main points of this service ✿
 
@@ -39,12 +40,20 @@ but also create a platform for minorities in the tech industry to learn from eac
 - Open source; being able to share your code and other members.
 - Creators would be able to post video tutorials / stream on the platform 
 
+The desired outcome would entail a website/app, with the funds and time this proposal could be possible.
+
+### This service is not only to help a community, but to bring us together
+### and explore our potential. :)  
 
 
+##### we can all make things like this!
 
 
-⚠ this is for women and minorities like non binary people, trans people ect. ⚠
+https://user-images.githubusercontent.com/94196366/142482874-692020b3-804a-46bc-bff4-4b91f5d409ac.mp4
 
 
+ 
 ╰┈➤ thank you for reading
+
+: ̗̀➛ A proposal by Diana Silva
 
