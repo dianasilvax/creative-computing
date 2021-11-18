@@ -33,16 +33,16 @@ who don't know where to start, someone to look up to. This would help minorities
 
 ## ✿ Main points of this service ✿
 
-- Being able to post your work & gain feedback from others
+- Being able to post your work & get feedback from others
 - Having different sections for different knowledge levels : beginner, medium, advanced ect.
 - Different sections for each coding languages : java, p5.js, html ect 
 - Option to post questions that would be answered by the community.
-- Open source; being able to share your code and other members.
-- Creators would be able to post video tutorials / stream on the platform 
+- Open source; being able to share your code with other members.
+- Creators would be able to post video tutorials / stream on the platform. 
 
-The desired outcome would entail a website/app, with the funds and time this proposal could be possible.
+The desired outcome would entail a website/app, with the funds and time this proposal could be possible. 
 
-# This service is not only to help a community, but to bring people together and explore our potential. :)  
+# This service is not only to help a community, but to bring people together and explore our potential ೄྀ࿐ ˊˎ- 
 
 -------- 
 
@@ -53,7 +53,9 @@ https://user-images.githubusercontent.com/94196366/142482874-692020b3-804a-46bc-
 
 
  
-╰┈➤ thank you for reading
+╰┈➤ thank you for reading!
+
+
 
 : ̗̀➛ A proposal by Diana Silva
 
