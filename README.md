@@ -42,11 +42,11 @@ who don't know where to start, someone to look up to. This would help minorities
 
 The desired outcome would entail a website/app, with the funds and time this proposal could be possible.
 
-### This service is not only to help a community, but to bring us together
-### and explore our potential. :)  
+# This service is not only to help a community, but to bring people together and explore our potential. :)  
 
+-------- 
 
-##### we can all make things like this!
+### We can all make things like this ⁀➷
 
 
 https://user-images.githubusercontent.com/94196366/142482874-692020b3-804a-46bc-bff4-4b91f5d409ac.mp4
